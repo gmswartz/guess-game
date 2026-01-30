@@ -1,14 +1,16 @@
 Grace Swartz
+CPSC-230
+Fall 2022
 
-source files:
--guessGame.py
+Source Files:
+- guessGame.py
 
-how to run file:
--python3 guessGame.py
+Run Command:
+- python3 guessGame.py
 
 sources:
 N/A
 
-collaborations:
--Camille Schaaf
--Gabi Bekhrad
+Collaborations:
+- Camille Schaaf
+- Gabi Bekhrad
